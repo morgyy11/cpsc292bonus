@@ -13,3 +13,7 @@ plot(mtcars$mpg, mtcars$wt)
 ```
 
 
+```{r}
+plot(Loblolly$height, Loblolly$Seed)
+```
+
